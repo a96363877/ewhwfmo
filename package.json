@@ -22,6 +22,7 @@
     "clsx": "^2.1.1",
     "eslint": "8.49.0",
     "eslint-config-next": "13.5.1",
+    "firebase": "^11.5.0",
     "lucide-react": "^0.484.0",
     "next": "13.5.1",
     "postcss": "8.4.30",
